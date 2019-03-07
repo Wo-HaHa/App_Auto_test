@@ -1,0 +1,12 @@
+2019-03-06 19:42:45,092 - basepage - INFO - the element  was clicked
+2019-03-06 19:43:08,297 - basepage - INFO - 输入内容247834601@qq.com
+2019-03-06 19:43:16,285 - basepage - INFO - 输入内容19960618
+2019-03-06 19:43:31,573 - basepage - INFO - the element  was clicked
+2019-03-06 19:43:33,314 - basepage - INFO - the element lixiuzhi was clicked
+2019-03-06 19:44:15,421 - basepage - INFO - the element  was clicked
+2019-03-06 19:44:38,166 - basepage - INFO - 输入内容25694415
+2019-03-06 19:44:46,179 - basepage - INFO - 输入内容11111111
+2019-03-06 19:44:47,602 - basepage - INFO - the element 登录 was clicked
+2019-03-06 19:44:49,275 - basepage - INFO - the element  was clicked
+2019-03-06 19:45:00,650 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x02FFFED0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-06 19:45:13,303 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x02FFFED0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/exit')元素

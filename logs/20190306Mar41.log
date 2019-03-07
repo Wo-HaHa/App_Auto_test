@@ -1,0 +1,22 @@
+2019-03-06 11:41:59,927 - basepage - INFO - the element  was clicked
+2019-03-06 11:42:01,950 - basepage - INFO - the element 回收站 was clicked
+2019-03-06 16:42:03,832 - basepage - INFO - sccess to move
+2019-03-06 16:42:33,232 - basepage - INFO - sccess to move
+2019-03-06 16:42:48,391 - basepage - INFO - the element  was clicked
+2019-03-06 16:42:50,727 - basepage - INFO - the element 归档 was clicked
+2019-03-06 20:41:43,703 - basepage - INFO - the element  was clicked
+2019-03-06 20:41:46,998 - basepage - INFO - the element 2478346012@qq.com was clicked
+2019-03-06 20:42:10,784 - basepage - INFO - 输入内容lixiuzhi4
+2019-03-06 20:42:19,208 - basepage - INFO - 输入内容247834601112@qq.com
+2019-03-06 20:42:27,428 - basepage - INFO - 输入内容19970803
+2019-03-06 20:42:43,064 - basepage - INFO - the element  was clicked
+2019-03-06 20:42:45,286 - basepage - INFO - the element lixiuzhi4 was clicked
+2019-03-06 20:43:00,806 - basepage - INFO - the element  was clicked
+2019-03-06 20:43:02,617 - basepage - INFO - the element 2478346012@qq.com was clicked
+2019-03-06 20:43:24,573 - basepage - INFO - 输入内容lixiuzhi
+2019-03-06 20:43:33,067 - basepage - INFO - 输入内容2478346012@qq.com
+2019-03-06 20:43:41,225 - basepage - INFO - 输入内容19960618
+2019-03-06 20:44:05,697 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02F40E30>页中未找到('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')元素
+2019-03-06 20:44:18,333 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02F40E30>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-06 20:44:30,789 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02F40E30>页中未找到('id', 'com.pdswp.su.smartcalendar:id/exit')元素
+2019-03-06 20:44:43,091 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02F40E30>页中未找到('id', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素

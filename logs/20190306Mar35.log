@@ -1,0 +1,23 @@
+2019-03-06 16:36:21,286 - basepage - INFO - sccess to move
+2019-03-06 16:36:24,349 - basepage - ERROR - <Pageobjects.App_Sort.App_sort object at 0x02903C70>页中未找到('id', 'com.pdswp.su.smartcalendar:id/menu_sort')元素
+2019-03-06 16:36:37,667 - basepage - ERROR - <Pageobjects.App_Sort.App_sort object at 0x02903C70>页中未找到('id', 'com.pdswp.su.smartcalendar:id/toolbar_ok')元素
+2019-03-06 16:36:40,477 - basepage - INFO - sccess to move
+2019-03-06 16:36:55,580 - basepage - INFO - the element  was clicked
+2019-03-06 16:36:57,840 - basepage - INFO - the element 归档 was clicked
+2019-03-06 16:37:19,532 - basepage - INFO - the element  was clicked
+2019-03-06 20:35:41,219 - basepage - INFO - the element  was clicked
+2019-03-06 20:35:43,100 - basepage - INFO - the element 2478346012@qq.com was clicked
+2019-03-06 20:36:05,068 - basepage - INFO - 输入内容lixiuzhi3
+2019-03-06 20:36:13,519 - basepage - INFO - 输入内容24783460112@qq.com
+2019-03-06 20:36:21,506 - basepage - INFO - 输入内容19970803
+2019-03-06 20:36:36,420 - basepage - INFO - the element  was clicked
+2019-03-06 20:36:38,673 - basepage - INFO - the element lixiuzhi3 was clicked
+2019-03-06 20:36:54,025 - basepage - INFO - the element  was clicked
+2019-03-06 20:36:56,011 - basepage - INFO - the element 2478346012@qq.com was clicked
+2019-03-06 20:37:17,443 - basepage - INFO - 输入内容lixiuzhi
+2019-03-06 20:37:25,813 - basepage - INFO - 输入内容2478346012@qq.com
+2019-03-06 20:37:33,779 - basepage - INFO - 输入内容19960618
+2019-03-06 20:37:59,995 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02F01E30>页中未找到('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')元素
+2019-03-06 20:38:12,499 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02F01E30>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-06 20:38:25,070 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02F01E30>页中未找到('id', 'com.pdswp.su.smartcalendar:id/exit')元素
+2019-03-06 20:38:37,265 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02F01E30>页中未找到('id', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素

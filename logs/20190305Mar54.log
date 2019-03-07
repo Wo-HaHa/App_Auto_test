@@ -1,0 +1,14 @@
+2019-03-05 18:54:56,320 - basepage - INFO - the element  was clicked
+2019-03-05 18:55:18,460 - basepage - INFO - 输入内容247834601@qq.com
+2019-03-05 18:55:26,524 - basepage - INFO - 输入内容19960618
+2019-03-05 18:55:41,299 - basepage - INFO - the element  was clicked
+2019-03-05 18:55:43,639 - basepage - INFO - the element sunkai was clicked
+2019-03-05 19:55:16,058 - basepage - INFO - the element  was clicked
+2019-03-05 19:55:39,042 - basepage - INFO - 输入内容2478346011@qq.com
+2019-03-05 19:55:47,025 - basepage - INFO - 输入内容19970803
+2019-03-05 19:56:02,277 - basepage - INFO - the element  was clicked
+2019-03-05 19:56:04,389 - basepage - INFO - the element lixiuzhi was clicked
+2019-03-05 19:56:07,912 - basepage - INFO - the element  was clicked
+2019-03-05 19:56:18,998 - basepage - ERROR - <Pageobjects.App_Alter.Alter object at 0x01E54570>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-05 19:56:31,479 - basepage - ERROR - <Pageobjects.App_Alter.Alter object at 0x01E54570>页中未找到('id', 'com.pdswp.su.smartcalendar:id/imageView4')元素
+2019-03-05 19:56:43,202 - basepage - ERROR - <Pageobjects.App_Alter.Alter object at 0x01E54570>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素

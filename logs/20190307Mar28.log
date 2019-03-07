@@ -1,0 +1,6 @@
+2019-03-07 15:28:49,536 - basepage - INFO - the element  was clicked
+2019-03-07 15:29:10,188 - basepage - INFO - 输入内容1111111111111111
+2019-03-07 15:29:34,410 - basepage - ERROR - <Pageobjects.Add_Memo.Add object at 0x02E5A590>页中未找到('id', 'com.pdswp.su.smartcalendar:id/menuAdd')元素
+2019-03-07 15:29:46,300 - basepage - ERROR - <Pageobjects.Add_Memo.Add object at 0x02E5A590>页中未找到('id', 'com.pdswp.su.smartcalendar:id/add_input_content')元素
+2019-03-07 15:29:46,941 - basepage - ERROR - Faild to type in input box with 'NoneType' object has no attribute 'clear'
+2019-03-07 15:29:58,203 - basepage - ERROR - <Pageobjects.Add_Memo.Add object at 0x02E5A590>页中未找到('id', 'com.pdswp.su.smartcalendar:id/quick_add')元素

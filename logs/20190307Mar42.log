@@ -1,0 +1,40 @@
+2019-03-07 15:42:40,127 - basepage - INFO - the element  was clicked
+2019-03-07 15:43:01,498 - basepage - INFO - 输入内容11
+2019-03-07 15:43:35,277 - basepage - INFO - 输入内容22
+2019-03-07 15:44:14,312 - basepage - INFO - the element  was clicked
+2019-03-07 15:44:35,620 - basepage - INFO - 输入内容2478346011@qq.com
+2019-03-07 15:44:43,469 - basepage - INFO - 输入内容19970803
+2019-03-07 15:44:58,372 - basepage - INFO - the element  was clicked
+2019-03-07 15:45:00,117 - basepage - INFO - the element lixiuzhi was clicked
+2019-03-07 15:45:20,367 - basepage - INFO - 输入内容lixiuzhi
+2019-03-07 15:46:02,147 - basepage - INFO - sccess to move
+2019-03-07 15:46:17,244 - basepage - INFO - the element  was clicked
+2019-03-07 15:46:19,378 - basepage - INFO - the element 回收站 was clicked
+2019-03-07 15:47:11,057 - basepage - INFO - the element  was clicked
+2019-03-07 15:47:13,047 - basepage - INFO - the element lixiuzhi was clicked
+2019-03-07 15:47:28,128 - basepage - ERROR - Faild to type in input box with Message: An element could not be located on the page using the given search parameters.
+
+2019-03-07 15:47:38,863 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x02190730>页中未找到('id', 'com.pdswp.su.smartcalendar:id/password')元素
+2019-03-07 15:47:39,500 - basepage - ERROR - Faild to type in input box with 'NoneType' object has no attribute 'clear'
+2019-03-07 15:47:50,270 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x02190730>页中未找到('id', 'com.pdswp.su.smartcalendar:id/login')元素
+2019-03-07 15:48:15,049 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x02190730>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-07 15:48:26,817 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x02190730>页中未找到('id', 'com.pdswp.su.smartcalendar:id/exit')元素
+2019-03-07 15:48:38,665 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x02190730>页中未找到('id', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素
+2019-03-07 15:49:05,174 - basepage - INFO - the element  was clicked
+2019-03-07 15:49:07,226 - basepage - INFO - the element lixiuzhi was clicked
+2019-03-07 15:49:21,555 - basepage - ERROR - Faild to type in input box with Message: An element could not be located on the page using the given search parameters.
+
+2019-03-07 15:49:32,331 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x028D2D90>页中未找到('id', 'com.pdswp.su.smartcalendar:id/password')元素
+2019-03-07 15:49:32,978 - basepage - ERROR - Faild to type in input box with 'NoneType' object has no attribute 'clear'
+2019-03-07 15:49:44,181 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x028D2D90>页中未找到('id', 'com.pdswp.su.smartcalendar:id/login')元素
+2019-03-07 15:50:08,837 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x028D2D90>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-07 15:50:20,604 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x028D2D90>页中未找到('id', 'com.pdswp.su.smartcalendar:id/exit')元素
+2019-03-07 15:50:32,410 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x028D2D90>页中未找到('id', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素
+2019-03-07 15:50:57,450 - basepage - INFO - the element  was clicked
+2019-03-07 15:50:59,432 - basepage - INFO - the element 2478346011@qq.com was clicked
+2019-03-07 15:51:10,431 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0317F490>页中未找到('id', 'com.pdswp.su.smartcalendar:id/register')元素
+2019-03-07 15:51:19,854 - basepage - INFO - 输入内容lixiuzhi0
+2019-03-07 15:51:30,697 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0317F490>页中未找到('id', 'com.pdswp.su.smartcalendar:id/email')元素
+2019-03-07 15:51:31,368 - basepage - ERROR - Faild to type in input box with 'NoneType' object has no attribute 'clear'
+2019-03-07 15:51:42,236 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0317F490>页中未找到('id', 'com.pdswp.su.smartcalendar:id/password')元素
+2019-03-07 15:51:42,908 - basepage - ERROR - Faild to type in input box with 'NoneType' object has no attribute 'clear'

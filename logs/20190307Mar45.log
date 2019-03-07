@@ -1,0 +1,61 @@
+2019-03-07 14:45:49,959 - basepage - INFO - the element  was clicked
+2019-03-07 14:46:11,385 - basepage - INFO - 输入内容1111111111111111
+2019-03-07 14:46:46,357 - basepage - INFO - 输入内容2222222222222222222222
+2019-03-07 14:47:24,864 - basepage - INFO - the element  was clicked
+2019-03-07 14:47:47,183 - basepage - INFO - 输入内容2478346011@qq.com
+2019-03-07 14:47:55,003 - basepage - INFO - 输入内容19970803
+2019-03-07 14:48:09,467 - basepage - INFO - the element  was clicked
+2019-03-07 14:48:11,266 - basepage - INFO - the element lixiuzhi was clicked
+2019-03-07 14:48:26,059 - basepage - INFO - the element  was clicked
+2019-03-07 14:48:49,771 - basepage - ERROR - <Pageobjects.App_Alter.Alter object at 0x0305EBF0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/title')元素
+2019-03-07 14:49:01,653 - basepage - ERROR - <Pageobjects.App_Alter.Alter object at 0x0305EBF0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-07 14:49:25,556 - basepage - INFO - sccess to move
+2019-03-07 14:49:40,408 - basepage - INFO - the element  was clicked
+2019-03-07 14:49:42,403 - basepage - INFO - the element 回收站 was clicked
+2019-03-07 14:50:32,659 - basepage - INFO - the element  was clicked
+2019-03-07 14:50:54,170 - basepage - INFO - 输入内容247834601@qq.com
+2019-03-07 14:51:02,024 - basepage - INFO - 输入内容19960618
+2019-03-07 14:51:16,922 - basepage - INFO - the element  was clicked
+2019-03-07 14:51:18,618 - basepage - INFO - the element lixiuzhi was clicked
+2019-03-07 14:51:56,855 - basepage - INFO - the element  was clicked
+2019-03-07 14:52:18,195 - basepage - INFO - 输入内容25694415
+2019-03-07 14:52:26,151 - basepage - INFO - 输入内容11111111
+2019-03-07 14:52:27,600 - basepage - INFO - the element 登录 was clicked
+2019-03-07 14:52:29,086 - basepage - INFO - the element  was clicked
+2019-03-07 14:52:40,624 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x004C2F30>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-07 14:52:52,827 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x004C2F30>页中未找到('id', 'com.pdswp.su.smartcalendar:id/exit')元素
+2019-03-07 14:53:22,398 - basepage - INFO - the element  was clicked
+2019-03-07 14:53:24,806 - basepage - INFO - the element 247834601@qq.com was clicked
+2019-03-07 14:53:46,910 - basepage - INFO - 输入内容lixiuzhi4
+2019-03-07 14:53:55,292 - basepage - INFO - 输入内容247834601112@qq.com
+2019-03-07 14:54:03,194 - basepage - INFO - 输入内容19970803
+2019-03-07 14:54:28,317 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02AA76D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')元素
+2019-03-07 14:54:39,992 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02AA76D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-07 14:54:52,284 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02AA76D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/exit')元素
+2019-03-07 14:55:04,014 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02AA76D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')元素
+2019-03-07 14:55:16,194 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02AA76D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/email')元素
+2019-03-07 14:55:27,949 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02AA76D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/register')元素
+2019-03-07 14:55:40,344 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x02AA76D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-07 14:56:25,056 - basepage - INFO - 输入内容11
+2019-03-07 14:56:52,699 - basepage - INFO - sccess to move
+2019-03-07 14:57:06,393 - basepage - ERROR - move faild Message: An unknown server-side error occurred while processing the command.
+
+2019-03-07 14:57:20,805 - basepage - INFO - sccess to move
+2019-03-07 14:57:36,240 - basepage - INFO - the element  was clicked
+2019-03-07 14:57:38,266 - basepage - INFO - the element 归档 was clicked
+2019-03-07 14:57:38,286 - basepage - ERROR - move faild Message: An unknown server-side error occurred while processing the command.
+
+2019-03-07 14:57:57,306 - basepage - INFO - the element  was clicked
+2019-03-07 16:45:35,969 - basepage - INFO - the element  was clicked
+2019-03-07 16:45:37,736 - basepage - INFO - the element 247834601@qq.com was clicked
+2019-03-07 16:45:57,931 - basepage - INFO - 输入内容lixiuzhi0
+2019-03-07 16:46:05,984 - basepage - INFO - 输入内容247834@qq.com
+2019-03-07 16:46:13,830 - basepage - INFO - 输入内容19970803
+2019-03-07 16:46:28,939 - basepage - INFO - the element  was clicked
+2019-03-07 16:46:30,731 - basepage - INFO - the element lixiuzhi0 was clicked
+2019-03-07 16:46:45,573 - basepage - INFO - the element  was clicked
+2019-03-07 16:46:47,173 - basepage - INFO - the element 247834601@qq.com was clicked
+2019-03-07 16:47:07,910 - basepage - INFO - 输入内容lixiuzhi0
+2019-03-07 16:47:15,998 - basepage - INFO - 输入内容247834@qq.com
+2019-03-07 16:47:23,818 - basepage - INFO - 输入内容19960618
+2019-03-07 16:47:48,578 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0291D2B0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素

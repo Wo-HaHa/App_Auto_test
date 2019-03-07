@@ -1,0 +1,10 @@
+#this is config file,only store appnium capability
+platformName: Android
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62001
+sessionOverride: True
+noReset: True
+appPackage: com.pdswp.su.smartcalendar
+appActivity: com.pdswp.su.smartcalendar.WelcomeNote
+ip: 127.0.0.1
+port: 4723

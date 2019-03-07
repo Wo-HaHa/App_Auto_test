@@ -1,0 +1,13 @@
+2019-03-07 15:59:58,143 - basepage - INFO - the element  was clicked
+2019-03-07 16:00:19,420 - basepage - INFO - 输入内容247834601@qq.com
+2019-03-07 16:00:27,316 - basepage - INFO - 输入内容19960618
+2019-03-07 16:00:41,787 - basepage - INFO - the element  was clicked
+2019-03-07 16:00:43,879 - basepage - INFO - the element lixiuzhi was clicked
+2019-03-07 16:59:47,117 - basepage - INFO - the element  was clicked
+2019-03-07 16:59:49,080 - basepage - INFO - the element 247834601@qq.com was clicked
+2019-03-07 17:00:10,116 - basepage - INFO - 输入内容lixiuzhi01
+2019-03-07 17:00:18,171 - basepage - INFO - 输入内容247834@qq.com
+2019-03-07 17:00:26,021 - basepage - INFO - 输入内容19970803
+2019-03-07 17:00:40,365 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0298D2B0>页中未找到('i', 'd', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素
+2019-03-07 17:00:40,365 - basepage - ERROR - failed get text 'NoneType' object has no attribute 'text'
+2019-03-07 17:00:51,349 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0298D2B0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')元素

@@ -1,0 +1,15 @@
+2019-03-05 15:13:19,312 - basepage - INFO - the element  was clicked
+2019-03-05 15:13:21,345 - basepage - INFO - the element 1233211234567@qq.com was clicked
+2019-03-05 15:13:42,742 - basepage - INFO - 输入内容lixiuzhi
+2019-03-05 15:13:50,966 - basepage - INFO - 输入内容2478346011@qq.com
+2019-03-05 15:13:58,901 - basepage - INFO - 输入内容19970803
+2019-03-05 17:13:17,085 - basepage - INFO - the element  was clicked
+2019-03-05 17:13:39,269 - basepage - INFO - 输入内容247834601@qq.com
+2019-03-05 17:13:43,320 - basepage - ERROR - Faild to type in input box with object of type 'float' has no len()
+2019-03-05 17:13:46,685 - basepage - INFO - the element 登录 was clicked
+2019-03-05 20:13:14,502 - basepage - INFO - the element  was clicked
+2019-03-05 20:13:37,805 - basepage - INFO - 输入内容2478346011@qq.com
+2019-03-05 20:13:45,725 - basepage - INFO - 输入内容19970803
+2019-03-05 20:14:00,852 - basepage - INFO - the element  was clicked
+2019-03-05 20:14:12,349 - basepage - ERROR - <Pageobjects.App_Alter.Alter object at 0x02F643B0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/title')元素
+2019-03-05 20:14:26,769 - basepage - INFO - 输入内容lixiuzhi

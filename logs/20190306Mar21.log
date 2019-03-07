@@ -1,0 +1,4 @@
+2019-03-06 11:22:07,561 - basepage - INFO - the element  was clicked
+2019-03-06 11:22:08,560 - basepage - ERROR - <Pageobjects.App_Delete.App_delete object at 0x0298BC90>页中未找到('link text', '回收站')元素
+2019-03-06 11:22:21,169 - basepage - ERROR - <Pageobjects.App_Delete.App_delete object at 0x0298BC90>页中未找到('id', 'com.pdswp.su.smartcalendar:id/button')元素
+2019-03-06 11:22:23,391 - basepage - ERROR - <Pageobjects.App_Delete.App_delete object at 0x0298BC90>页中未找到('link text', '确定')元素

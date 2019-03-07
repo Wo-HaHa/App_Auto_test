@@ -1,0 +1,35 @@
+2019-03-07 15:53:13,707 - basepage - INFO - the element  was clicked
+2019-03-07 15:53:35,063 - basepage - INFO - 输入内容247834601@qq.com
+2019-03-07 15:53:42,970 - basepage - INFO - 输入内容19960618
+2019-03-07 15:53:57,798 - basepage - INFO - the element  was clicked
+2019-03-07 15:53:59,517 - basepage - INFO - the element lixiuzhi was clicked
+2019-03-07 15:54:38,427 - basepage - INFO - the element  was clicked
+2019-03-07 15:55:00,424 - basepage - INFO - 输入内容25694415
+2019-03-07 15:55:08,296 - basepage - INFO - 输入内容11111111
+2019-03-07 15:55:09,597 - basepage - INFO - the element 登录 was clicked
+2019-03-07 15:55:10,927 - basepage - INFO - the element  was clicked
+2019-03-07 15:55:22,272 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x031B0690>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-07 15:55:34,330 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x031B0690>页中未找到('id', 'com.pdswp.su.smartcalendar:id/exit')元素
+2019-03-07 16:53:20,548 - basepage - INFO - the element  was clicked
+2019-03-07 16:53:22,308 - basepage - INFO - the element 247834601@qq.com was clicked
+2019-03-07 16:53:43,487 - basepage - INFO - 输入内容lixiuzhi0
+2019-03-07 16:53:51,446 - basepage - INFO - 输入内容247834@qq.com
+2019-03-07 16:53:59,184 - basepage - INFO - 输入内容19970803
+2019-03-07 16:54:24,875 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293B9D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素
+2019-03-07 16:54:24,875 - basepage - ERROR - failed get text 'NoneType' object has no attribute 'text'
+2019-03-07 16:54:36,006 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293B9D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')元素
+2019-03-07 16:54:47,917 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293B9D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-07 16:55:00,510 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293B9D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/exit')元素
+2019-03-07 16:55:12,181 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293B9D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')元素
+2019-03-07 16:55:23,855 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293B9D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/email')元素
+2019-03-07 16:55:35,593 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293B9D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/register')元素
+2019-03-07 16:55:48,502 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293B9D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-07 16:55:49,449 - basepage - ERROR - Faild to type in input box with 'NoneType' object has no attribute 'clear'
+2019-03-07 16:56:00,600 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293B9D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/email')元素
+2019-03-07 16:56:01,383 - basepage - ERROR - Faild to type in input box with 'NoneType' object has no attribute 'clear'
+2019-03-07 16:56:12,988 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293B9D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/password')元素
+2019-03-07 16:56:13,805 - basepage - ERROR - Faild to type in input box with 'NoneType' object has no attribute 'clear'
+2019-03-07 16:56:25,029 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293B9D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/reguser')元素
+2019-03-07 16:56:36,769 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293B9D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/index_ab_title')元素
+2019-03-07 16:56:36,769 - basepage - ERROR - failed get text 'NoneType' object has no attribute 'text'
+2019-03-07 16:56:48,010 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293B9D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')元素

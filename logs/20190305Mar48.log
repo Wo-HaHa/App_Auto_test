@@ -1,0 +1,3 @@
+2019-03-05 19:49:14,328 - basepage - INFO - the element  was clicked
+2019-03-05 19:49:25,591 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x0309ED30>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-05 19:49:37,946 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x0309ED30>页中未找到('id', 'com.pdswp.su.smartcalendar:id/email')元素

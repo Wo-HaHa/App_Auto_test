@@ -1,0 +1,48 @@
+2019-03-07 11:49:04,618 - basepage - INFO - the element  was clicked
+2019-03-07 11:49:25,860 - basepage - INFO - 输入内容1111111111111111
+2019-03-07 11:50:00,967 - basepage - INFO - 输入内容2222222222222222222222
+2019-03-07 11:50:40,350 - basepage - INFO - the element  was clicked
+2019-03-07 11:51:02,129 - basepage - INFO - 输入内容2478346011@qq.com
+2019-03-07 11:51:10,114 - basepage - INFO - 输入内容19970803
+2019-03-07 11:51:24,791 - basepage - INFO - the element  was clicked
+2019-03-07 11:51:27,255 - basepage - INFO - the element lixiuzhi was clicked
+2019-03-07 11:51:42,146 - basepage - INFO - the element  was clicked
+2019-03-07 11:52:06,130 - basepage - ERROR - <Pageobjects.App_Alter.Alter object at 0x0313D710>页中未找到('id', 'com.pdswp.su.smartcalendar:id/title')元素
+2019-03-07 11:52:17,815 - basepage - ERROR - <Pageobjects.App_Alter.Alter object at 0x0313D710>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-07 11:52:42,418 - basepage - INFO - sccess to move
+2019-03-07 11:52:57,583 - basepage - INFO - the element  was clicked
+2019-03-07 11:52:59,593 - basepage - INFO - the element 回收站 was clicked
+2019-03-07 11:53:51,491 - basepage - INFO - the element  was clicked
+2019-03-07 11:54:13,466 - basepage - INFO - 输入内容247834601@qq.com
+2019-03-07 11:54:21,350 - basepage - INFO - 输入内容19960618
+2019-03-07 11:54:36,630 - basepage - INFO - the element  was clicked
+2019-03-07 11:54:38,903 - basepage - INFO - the element lixiuzhi was clicked
+2019-03-07 11:55:17,235 - basepage - INFO - the element  was clicked
+2019-03-07 11:55:38,633 - basepage - INFO - 输入内容25694415
+2019-03-07 11:55:46,644 - basepage - INFO - 输入内容11111111
+2019-03-07 11:55:47,982 - basepage - INFO - the element 登录 was clicked
+2019-03-07 11:55:49,584 - basepage - INFO - the element  was clicked
+2019-03-07 11:56:00,693 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x02B826D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-07 11:56:12,601 - basepage - ERROR - <Pageobjects.App_Login.Login object at 0x02B826D0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/exit')元素
+2019-03-07 11:56:38,634 - basepage - INFO - the element  was clicked
+2019-03-07 11:56:40,414 - basepage - INFO - the element 247834601@qq.com was clicked
+2019-03-07 11:57:00,704 - basepage - INFO - 输入内容lixiuzhi4
+2019-03-07 11:57:08,886 - basepage - INFO - 输入内容247834601112@qq.com
+2019-03-07 11:57:16,819 - basepage - INFO - 输入内容19970803
+2019-03-07 11:57:42,836 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293D8F0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')元素
+2019-03-07 11:57:55,059 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293D8F0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-07 11:58:07,517 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293D8F0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/exit')元素
+2019-03-07 11:58:19,401 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293D8F0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/ab_icon2')元素
+2019-03-07 11:58:31,601 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293D8F0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/email')元素
+2019-03-07 11:58:43,735 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293D8F0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/register')元素
+2019-03-07 11:58:56,112 - basepage - ERROR - <Pageobjects.App_Register.Register object at 0x0293D8F0>页中未找到('id', 'com.pdswp.su.smartcalendar:id/username')元素
+2019-03-07 11:59:40,663 - basepage - INFO - 输入内容11
+2019-03-07 12:00:10,279 - basepage - INFO - sccess to move
+2019-03-07 12:00:23,992 - basepage - ERROR - move faild Message: An unknown server-side error occurred while processing the command.
+
+2019-03-07 12:00:38,340 - basepage - INFO - sccess to move
+2019-03-07 12:00:53,567 - basepage - INFO - the element  was clicked
+2019-03-07 12:00:55,955 - basepage - INFO - the element 归档 was clicked
+2019-03-07 12:00:55,977 - basepage - ERROR - move faild Message: An unknown server-side error occurred while processing the command.
+
+2019-03-07 12:01:15,059 - basepage - INFO - the element  was clicked
